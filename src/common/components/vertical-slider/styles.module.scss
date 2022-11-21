@@ -1,0 +1,30 @@
+.slider {
+  height: 100%;
+}
+
+.slickSlider {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.slickSlide {
+  border: 2px solid var(--light-blue);
+  padding: calc(var(--gap) * 5) calc(var(--gap) * 6);
+  border-radius: 16px;
+  margin-bottom: 30px;
+  user-select: none;
+}
+
+.title {
+  margin-bottom: calc(var(--gap) * 3);
+}
+
+.text {
+  margin-bottom: calc(var(--gap) * 4);
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+}

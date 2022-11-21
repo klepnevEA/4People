@@ -1,0 +1,11 @@
+.reactSelect {
+  position: relative;
+}
+
+.selectLabel {
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: calc(var(--gap) * 2);
+  text-transform: uppercase;
+  color: var(--gray-color);
+}

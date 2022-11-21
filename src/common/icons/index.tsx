@@ -1,0 +1,11 @@
+export { ReactComponent as ArrowLeft } from "./arrow-left.svg";
+export { ReactComponent as ArrowRight } from "./arrow-right.svg";
+export { ReactComponent as ChevronRight } from "./chevron-right.svg";
+export { ReactComponent as User } from "./user.svg";
+export { ReactComponent as Mail } from "./mail.svg";
+export { ReactComponent as EyeOff } from "./eye-off.svg";
+export { ReactComponent as Facebook } from "./facebook.svg";
+export { ReactComponent as Google } from "./google.svg";
+export { ReactComponent as Instagram } from "./instagram.svg";
+export { ReactComponent as Twitter } from "./twitter.svg";
+export { ReactComponent as Linkedin } from "./linkedin.svg";
